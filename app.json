@@ -1,9 +1,9 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "Ultra's Movie -BOT",
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "keywords": ["Telegram", "auto-filter", "Ultra"],
+    "repository": "https://telegram.dog/ultraloot23",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
